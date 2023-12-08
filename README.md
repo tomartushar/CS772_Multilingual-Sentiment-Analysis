@@ -8,6 +8,9 @@ A multilingual analysis system, that can be used for sentiment classification ta
 
 ## Training
 Model has been finetuned on target languages data, generated with the help of Google Translation API.
+```
+Dataset: Sentiment140
+```
 Two different kind of model has been testes:
 1. DistillBert
 2. mBERT
