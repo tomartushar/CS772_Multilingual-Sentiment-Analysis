@@ -1,17 +1,17 @@
 # MultiLingual Sentiment Analysis
-A multilingual analysis system, that can be used for sentiment classification task over four different languages `English`, `Hindi`, `Marathi`, and `Gujarati`.
+A multilingual analysis system that can be used for sentiment classification tasks over four different languages `English`, `Hindi`, `Marathi`, and `Gujarati`.
 
 ## Setup
 * Input: Any sentence in `English`, `Hindi`, `Marathi`, and `Gujarati`.
 * Output: Sentiment Class (`POSITIVE` or `NEGATIVE`)
-* User has been provided a very easy to use GUI to use this system which is basically as web interface.
+* The user has been provided a very easy-to-use GUI to use this system as a web interface.
 
 ## Training
-Model has been finetuned on target languages data, generated with the help of Google Translation API.
+The model has been finetuned on target languages data, generated with the help of Google Translation API.
 ```
 Dataset: Sentiment140
 ```
-Two different kind of model has been testes:
+Two different kinds of model has been tested:
 1. DistillBert
 2. mBERT
 
