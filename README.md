@@ -1,4 +1,4 @@
-# MultiLingual Sentiment Analysis
+# Multilingual Sentiment Analysis
 A multilingual analysis system that can be used for sentiment classification tasks over four different languages `English`, `Hindi`, `Marathi`, and `Gujarati`.
 
 ## Setup
